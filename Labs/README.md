@@ -7,7 +7,7 @@
 |                                            3                                            | Bài tập 2                                                                        |                                            |
 |                                            4                                            | Lab 2 <br>- Ma trận trong Python<br>- Định thức<br>- Nghịch đảo ma trận          | Đồ án 1                                    |
 |                                            5                                            | Bài tập 3                                                                        |                                            |
-| <td colspan="3" align="center"><i>**(24/06/2024 - 14/07/2024) - Nghỉ giữa kỳ**</i></td> |                                                                                  |                                            |
+| <td colspan="2" align="center"><i>**(24/06/2024 - 14/07/2024) - Nghỉ giữa kỳ**</i></td> |                                                                                  |                                            |
 |                                            6                                            | Lab 3<br>- Trị riêng, vector riêng<br>- Chéo hóa ma trận<br>- Chéo hóa trực giao | Đồ án 2                                    |
 |                                            7                                            | Bài tập 4                                                                        |                                            |
 |                                            8                                            | Bài tập 4 (tiếp theo) <br>- Lab 4: Hồi quy OLS                                   |                                            |
