@@ -1,4 +1,5 @@
 # **Project 01 - Color Compression**
+## Mục lục
 * [Đồ án 1 - Color Compression](#c2)
     * [Nội dung đồ án](#c21)
     * [Quy định nộp bài](#c22)
